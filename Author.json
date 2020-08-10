@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+       "name": "Suzanna Arundhati Roy",
+       "Born": "24 November 1961 (age 58 years)",
+       "Book": "The God of Small Things"
+    },
+    {
+      "name": "Salman Rushdie",
+       "Born": "19 June 1947 (age 73 years)",
+      "Book": "The Satanic Verses"
+    },
+    {
+       "name": "Ruskin Bond",
+       "Born": "19 May 1934 (age 86 years)",
+      "Book": "The Room on the Roof"
+    },
+    {
+       "name": "Khushwant Singh",
+       "Born": "2 February 1915",
+       "Awards": "Padma Bhushan",
+      "Book": "Train to Pakistan"
+    },
+    {
+       "name": "R. K. Narayan",
+       "Born": "10 October 1906",
+       "Awards": "Filmfare Award for Best Story, Padma Bhushan, Padma Vibhushan",
+      "Book": "Maalgudi Ki Kahaniyan"
+    },
+    {
+       "name": "Vikram Seth",
+       "Born": "20 June 1952 (age 68 years)",
+       "Awards": "WH Smith Literary Award, Padma Shri, MORE",
+      "Book": "A Suitable Boy"
+    },
+    {
+       "name": "Shashi Tharoor",
+       "Born": "9 March 1956 (age 64 years)",
+       "Awards": "No",
+      "Book": "An Era of Darkness: The Briti..."
+    },
+    {
+       "name": "Amitav Ghosh",
+       "Born": "11 July 1956 (age 64 years)",
+       "Awards": "Jnanpith Award, Padma Shri, Arthur C. Clarke Award, Prix Médicis étranger",
+       "Book": "Sea of Poppies"
+    },
+    {
+       "name": "Jhumpa Lahiri",
+       "Born": "11 July 1967 (age 53 years)",
+       "Awards": "PEN/Hemingway Award, Pulitzer Prize for Fiction, MORE",
+       "Book": "The Namesake"
+    },
+    {
+       "name": "Aravind Adiga",
+       "Born": "23 October 1974 (age 45 years)",
+       "Awards": "No",
+       "Book": "The White Tiger"
+    },
+    {
+       "name": "Chitra Banerjee Divakaruni",
+       "Born": "29 July 1956 (age 64 years)",
+        "Awards": "American Book Award, Crawford Award",
+      "Book": "The Palace of Illusions"
+    },
+    {
+       "name": "Chetan Bhagat",
+       "Born": "22 April 1974 (age 46 years)",
+       "Awards": "No",
+       "Book": "Five Point Someone"
+    },
+    {
+       "name": "Twinkle Khanna",
+       "Born": "29 December 1973 (age 46 years)",
+       "Awards": "No",
+       "Book": "Mrs Funnybones"
+    },
+    {
+       "name": "Amish Tripathi",
+       "Born": "18 October 1974 (age 45 years)",
+       "Awards": "No",
+       "Book": "The Immortals of Meluha"
+    },
+    {
+       "name": "Anita Desai",
+       "Born": "24 June 1937 (age 83 years)",
+       "Awards": "Sahitya Akademi Award for English Writers, Guardian Children's Fiction Prize, Padma Bhushan",
+       "Book": "Clear Light of Day"
+    },
+    {
+       "name": "Kiran Desai",
+       "Born": "3 September 1971 (age 48 years)",
+       "Awards": "Booker Prize, National Book Critics Circle Award for Fiction, Guggenheim Fellowship for Creative Arts, US & Canada",
+       "Book": "The Inheritance of Loss"
+    },
+    {
+       "name": "Mulk Raj Anand",
+       "Born": "12 December 1905",
+       "Awards": "Sahitya Akademi Award for English Writers, Padma Bhushan",
+       "Book": "Untouchab"
+    },
+    {
+       "name": "A. P. J. Abdul Kalam",
+       "Born": "15 October 1931",
+       "Awards": "Bharat Ratna, Padma Vibhushan, Padma Bhushan, MORE",
+       "Book": "Wings of Fire"
+    },
+    {
+       "name": "Swami Vivekananda",
+       "Born": "12 January 1863",
+       "Awards": "No",
+       "Book":"Meditation and Its Methods"
+    }    
+  ]
+}
