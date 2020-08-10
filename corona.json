@@ -74,7 +74,7 @@
     },
     {
        "Country name": "France",
-       "TotalCases": "197,921	",
+       "TotalCases": "197,921",
        "TotalDeaths": "30,324",
        "ActiveCases"": "84,761",
     },
@@ -88,7 +88,7 @@
        "Country name": "Qatar",
        "TotalCases": "112,947",
        "TotalDeaths": "184",
-       "ActiveCases"": "3,054	",
+       "ActiveCases"": "3,054",
     },
   ]
 }
