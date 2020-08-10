@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+       "Country name": "USA",
+       "TotalCases": "5,199,444	",
+       "TotalDeaths": "165,617",
+       "ActiveCases"": "2,369,126",
+    },
+    {
+      "Country name": "Brazil",
+       "TotalCases": "3,035,582",
+       "TotalDeaths": "101,136",
+       "ActiveCases"": "815,986",
+    },
+    {
+       "Country name": "India",
+       "TotalCases": "2,217,645",
+       "TotalDeaths": "44,499",
+       "ActiveCases"": "636,887",
+    },
+    {
+       "Country name": "Russia",
+       "TotalCases": "892,654",
+       "TotalDeaths": "15,001",
+       "ActiveCases"": "180,972",
+    },
+    {
+       "Country name": "South Africa",
+       "TotalCases": "559,859",
+       "TotalDeaths": "10,408",
+       "ActiveCases"": "137,977",
+    },
+    {
+       "Country name": "Pakistan",
+       "TotalCases": "284,660",
+       "TotalDeaths": "6,097",
+       "ActiveCases"": "17,799",
+    },
+    {
+       "Country name": "Saudi Arabia",
+       "TotalCases": "288,690",
+       "TotalDeaths": "3,167",
+       "ActiveCases"": "33,484",
+    },
+    {
+       "Country name": "Iran",
+       "TotalCases": "326,712",
+       "TotalDeaths": "18,427",
+       "ActiveCases"": "23,914",
+    },
+    {
+       "Country name": "Italy",
+       "TotalCases": "250,566",
+       "TotalDeaths": "35,205",
+       "ActiveCases"": "13,263",
+    },
+    {
+       "Country name": "Turkey",
+       "TotalCases": "240,804",
+       "TotalDeaths": "5,844",
+       "ActiveCases"": "11,201",
+    },
+    {
+       "Country name": "Bangladesh",
+       "TotalCases": "257,600",
+       "TotalDeaths": "3,399",
+       "ActiveCases"": "105,831",
+    },
+    {
+       "Country name": "Germany",
+       "TotalCases": "217,281",
+       "TotalDeaths": "9,261",
+       "ActiveCases"": "10,120",
+    },
+    {
+       "Country name": "France",
+       "TotalCases": "197,921	",
+       "TotalDeaths": "30,324",
+       "ActiveCases"": "84,761",
+    },
+    {
+       "Country name": "Canada",
+       "TotalCases": "119,451",
+       "TotalDeaths": "8,981",
+       "ActiveCases"": "6,742",
+    },
+    {
+       "Country name": "Qatar",
+       "TotalCases": "112,947",
+       "TotalDeaths": "184",
+       "ActiveCases"": "3,054	",
+    },
+  ]
+}
