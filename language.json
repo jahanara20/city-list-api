@@ -2,47 +2,46 @@
     "languages": [
         {
             "year": 2002,
-            "name": "Regional Assembly Language",
+            "name": "Regional Assembly Language"
         },
         {
             "year": 1995,
-            "name": "Java",
+            "name": "Java"
         },
         {
             "year": 1972,
-            "name": "C",
+            "name": "C"
         },
         {
             "year": 1979,
-            "name": "C++",
+            "name": "C++"
         },
         {
             "year": 1996,
-            "name": "PHP",
+            "name": "PHP"
         },
         {
-            "year": 1970's,
-            "name": "Visual Basic",
+            "year": 1970,
+            "name": "Visual Basic"
         },
         {
-            "year": 1980's,
-            "name": "Python",
+            "year": 1980,
+            "name": "Python"
         },
         {
-            "year": 1970's,
-            "name": "C#",
+            "year": 1970,
+            "name": "C#"
         },
         {
             "year": 1986,
-            "name": "Perl",
+            "name": "Perl"
         },
         {
             "year": 1995,
-            "name": "Ruby",
-        },
+            "name": "Ruby"
+        }
     ],
-    "trending": [
-      {
+    "trending": [      
         "JavaScript",
         "Java",
         "Python",
@@ -61,11 +60,9 @@
         "Erlang",
         "Scala",
         "Elixir",
-        "Haskell"
-      }
+        "Haskell"      
     ],
-    "used": [
-      {
+    "used": [      
         "Python",
         "Java",
         "C",
@@ -74,7 +71,6 @@
         "C#",
         "PHP",
         "Objective-C",
-        "SQL",
-      }
+        "SQL"      
     ]
 }
