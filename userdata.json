@@ -75,11 +75,11 @@
     "ad":[
       {   "company":"StatusCode Weekly1",
           "url":"http://statuscode.org/",
-          "text":"A weekly newsletter focusing on software development, infrastructure, the server, performance, and the stack end of things."
+          "text":"the stack end of things."
        },
       {   "company":"StatusCode Weekly2",
           "url":"https://www.google.com/",
-          "text":"A weekly newsletter focusing on software development."
+          "text":"weekly newsletter."
       }
    ]     
  }
