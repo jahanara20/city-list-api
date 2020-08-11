@@ -3,23 +3,26 @@
     {
        "name": "Suzanna Arundhati Roy",
        "Born": "24 November 1961 (age 58 years)",
+       "Awards": "No",
        "Book": "The God of Small Things"
     },
     {
       "name": "Salman Rushdie",
-       "Born": "19 June 1947 (age 73 years)",
+      "Born": "19 June 1947 (age 73 years)",
+      "Awards": "No",
       "Book": "The Satanic Verses"
     },
     {
        "name": "Ruskin Bond",
        "Born": "19 May 1934 (age 86 years)",
-      "Book": "The Room on the Roof"
+       "Awards": "No",
+       "Book": "The Room on the Roof"
     },
     {
        "name": "Khushwant Singh",
        "Born": "2 February 1915",
        "Awards": "Padma Bhushan",
-      "Book": "Train to Pakistan"
+       "Book": "Train to Pakistan"
     },
     {
        "name": "R. K. Narayan",
