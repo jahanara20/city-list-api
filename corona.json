@@ -26,7 +26,7 @@
     },
     {
        "Country name": "South Africa",
-       "TotalCases": 559,859,
+       "TotalCases": 559859,
        "TotalDeaths": 10408,
        "ActiveCases": 137977
     },
@@ -44,7 +44,7 @@
     },
     {
        "Country name": "Iran",
-       "TotalCases": 326,712,
+       "TotalCases": 326712,
        "TotalDeaths": 18427,
        "ActiveCases": 23914
     },
