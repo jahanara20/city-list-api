@@ -2,153 +2,153 @@
   "data": [
     {
        "state": "Uttar Pradesh",
-       "Population":"199,812,341",
-       "Population %":"16.51%",
-       "Area": "240,928 km2"
+       "Population":199812341,
+       "populationpercent":16.51,
+       "Area": 240928
     },
     {
       "state": "Maharashtra",
-      "Population":"112,374,333",
-      "Population %":"9.28%",
-      "Area": "307,713 km2"
+      "Population":112374333,
+      "populationpercent":9.28,
+      "Area": 307713
     },
     {
       "state": "Bihar",
-      "Population":"104,099,452",
-      "Population %":"8.6%",
-      "Area": "94,163 km2"
+      "Population":104099452,
+      "populationpercent":8.6,
+      "Area": 94163
     },
     {
        "state": "West Bengal",
-       "Population":"91,276,115",
-       "Population %":"7.54%",
-       "Area": "88,752 km2"
+       "Population":91276115,
+       "populationpercent":7.54,
+       "Area": 88752
     },
     {
        "state": "Madhya Pradesh",
-       "Population":"72,626,809",
-       "Population %":"6%",
-       "Area": "308,245 km2"
+       "Population":72626809,
+       "populationpercent":6,
+       "Area": 308245
     },
     {
        "state": "Tamil Nadu",
-       "Population":"72,147,030",
-       "Population %":"5.96%",
-       "Area": "130,058 km2"
+       "Population":72147030,
+       "populationpercent":5.96,
+       "Area": 130058
     },
     {
        "state": "Rajasthan",
-       "Population":"68,548,437",
-       "Population %":"5.66%",
-       "Area": "342,239 km2"
+       "Population":68548437,
+       "populationpercent":5.66,
+       "Area": 342239
     },
     {
        "state": "Karnataka",
-       "Population":"61,095,297",
-       "Population %":"5.05%",
-       "Area": "191,791 km2"
+       "Population":61095297,
+       "populationpercent":5.05,
+       "Area": 191791
     },
     {
        "state": "Gujarat",
-       "Population":"60,439,692",
-       "Population %":"4.99%",
-       "Area": "196,024 km2"
+       "Population":60439692,
+       "populationpercent":4.99,
+       "Area": 196024
     },
     {
        "state": "Andhra Pradesh",
-       "Population":"49,577,103",
-       "Population %":"4.1%",
-       "Area": "162,968 km2"
+       "Population":49577103,
+       "populationpercent":4.1,
+       "Area": 162968
     },
     {
        "state": "Odisha",
-       "Population":"41,974,219",
-       "Population %":"3.47%",
-       "Area": "155,707 km2"
+       "Population":41974219,
+       "populationpercent":3.47,
+       "Area": 155707
     },
     {
        "state": "Telangana",
-       "Population":"35,003,674",
-       "Population %":"2.89%",
-       "Area": "112,077 km2"
+       "Population":35003674,
+       "populationpercent":2.89,
+       "Area": 112077
     },
     {
        "state": "Kerala",
-       "Population":"33,406,061",
-       "Population %":"2.76%",
-       "Area": "38,863 km2"
+       "Population":33406061,
+       "populationpercent":2.76,
+       "Area": 38863
     },
     {
        "state": "Jharkhand",
-       "Population":"32,988,134",
-       "Population %":"2.73%",
-       "Area": "79,714 km2"
+       "Population":32988134,
+       "populationpercent":2.73,
+       "Area": 79714
     },
     {
        "state": "Assam",
-       "Population":"31,205,576",
-       "Population %":"2.58%",
-       "Area": "78,438 km2"
+       "Population":31205576,
+       "populationpercent":2.58,
+       "Area": 78438
     },
     {
        "state": "Punjab",
-       "Population":"27,743,338",
-       "Population %":"2.29%",
-       "Area": "50,362 km2"
+       "Population":27743338,
+       "populationpercent":2.29,
+       "Area": 50362
     },
     {
        "state": "Chhattisgarh",
-       "Population":"25,545,198",
-       "Population %":"%",
-       "Area": "135,191 km2"
+       "Population":25545198,
+       "populationpercent":0.34,
+       "Area": 135191
     },
     {
        "state": "Haryana",
-       "Population":"25,351,462",
-       "Population %":"2.11%",
-       "Area": "44,212 km2"
+       "Population":25351462,
+       "populationpercent":2.11,
+       "Area": 44212
     },
     {
        "state": "Delhi",
-       "Population":"16,787,941",
-       "Population %":"1.39%",
-       "Area": "1,484 km2"
+       "Population":16787941,
+       "populationpercent":1.39,
+       "Area": 1484
     },
     {
        "state": "Jammu and Kashmir",
-       "Population":"12,267,032",
-       "Population %":"1.01%",
-       "Area": "42,241 km2"
+       "Population":12267032,
+       "populationpercent":1.01,
+       "Area": 42241
     }, 
     {
        "state": "Uttarakhand",
-       "Population":"10,086,292",
-       "Population %":"0.83%",
-       "Area": "53,483 km2"
+       "Population":10086292,
+       "populationpercent":0.83,
+       "Area": 53483
     },
     {
        "state": "Himachal Pradesh",
-       "Population":"6,864,602",
-       "Population %":"0.57%",
-       "Area": "55,673 km2"
+       "Population":6864602,
+       "populationpercent":0.57,
+       "Area": 55673
     },
     {
        "state": "Tripura",
-       "Population":"3,673,917",
-       "Population %":"0.3%",
-       "Area": "10,486 km2"
+       "Population": 3673917,
+       "populationpercent":0.3,
+       "Area": 10486
     },
     {
        "state": "Meghalaya",
-       "Population":"2,966,889",
-       "Population %":"%",
-       "Area": "22,429 km2"
+       "Population":2966889,
+       "populationpercent":0.34,
+       "Area": 22429
     },
     {
        "state": "Goa",
-       "Population":"1,458,545",
-       "Population %":"0.12%",
-       "Area": "3,702 km2"
+       "Population":1458545,
+       "populationpercent":0.12,
+       "Area": 3702
     }  
   ]
 }
